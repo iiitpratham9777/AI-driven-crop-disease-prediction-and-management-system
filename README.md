@@ -29,3 +29,5 @@ The **AI-Driven Crop Disease Prediction and Management System** is a web-based s
 - **Machine Learning**: Scikit-learn, TensorFlow, OpenCV  
 - **Data Sources**: Satellite Imagery, Weather APIs, On-field Sensors  
 - **Database**: MySQL / MongoDB
+
+
